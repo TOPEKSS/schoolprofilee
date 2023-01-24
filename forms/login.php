@@ -21,11 +21,11 @@
 					</div>
 					<div class="card fat">
 						<div class="card-body">
-							<h4 class="card-title">Login</h4>
-              <p class="text">Please sign-in to your account and start the adventure</p>
+							<h3 class="card-title">Login!</h3>
+              <h5 class="text">Please sign-in to your account and start the adventure</h5>
 							<form method="POST" class="my-login-validation" novalidate="">
 								<div class="form-group">
-                <label for="email" class="form-label">Email or Username</label>
+                <label for="email" class="form-label">EMAIL OR USERNAME</label>
                   <input type="text" class="form-control" id="email" name="email-username" placeholder="Enter your email or username" required autofocus />
 									<div class="invalid-feedback">
 										Email is invalid
@@ -33,7 +33,7 @@
 								</div>
 
 								<div class="form-group">
-									<label for="password">Password
+									<label for="password" class="form-label">PASSWORD
 										<a href="../forms/forgot.php" class="float-right">
 											Forgot Password?
 										</a>
@@ -47,7 +47,7 @@
 								<div class="form-group">
 									<div class="custom-checkbox custom-control">
 										<input type="checkbox" name="remember" id="remember" class="custom-control-input">
-										<label for="remember" class="custom-control-label">Remember Me</label>
+										<label for="remember" class="custom-control-label form-label">Remember Me</label>
 									</div>
 								</div>
 
@@ -56,7 +56,7 @@
 										Login
 									</button>
 								</div>
-								<div class="mt-4 text-center">
+								<div class="mt-4 text-center form-label">
 									Don't have an account? <a href="../forms/register.php">Create One</a>
 								</div>
 							</form>

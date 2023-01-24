@@ -20,26 +20,28 @@
 					<div class="card fat">
 						<div class="card-body">
 							<h4 class="card-title">Register</h4>
+							<h6 class="text text-center">Make your app management easy and fun!</h6>
 							<form method="POST" class="my-login-validation" novalidate="">
 								<div class="form-group">
-									<label for="name">Name</label>
-									<input id="name" type="text" class="form-control" name="name" required autofocus>
+									<label for="name" class="form-label">USERNAME</label>
+									<input id="name" type="text" class="form-control" name="name" required placeholder="Enter your username" autofocus>
 									<div class="invalid-feedback">
 										What's your name?
 									</div>
 								</div>
 
 								<div class="form-group">
-									<label for="email">E-Mail Address</label>
-									<input id="email" type="email" class="form-control" name="email" required>
+									<label for="email" class="form-label">E- MAIL ADDRES</label>
+									<input id="email" type="email" class="form-control" name="email" placeholder="Enter your email" required>
 									<div class="invalid-feedback">
 										Your email is invalid
 									</div>
 								</div>
 
 								<div class="form-group">
-									<label for="password">Password</label>
-									<input id="password" type="password" class="form-control" name="password" required data-eye>
+									<label for="password"class="form-label">PASSOWRD</label>
+									<input id="password" type="password" class="form-control" name="password"  placeholder="&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;"
+                      aria-describedby="password"  required data-eye>
 									<div class="invalid-feedback">
 										Password is required
 									</div>
@@ -48,7 +50,7 @@
 								<div class="form-group">
 									<div class="custom-checkbox custom-control">
 										<input type="checkbox" name="agree" id="agree" class="custom-control-input" required="">
-										<label for="agree" class="custom-control-label">I agree to the <a href="#">Terms and Conditions</a></label>
+										<label for="agree" class="custom-control-label form-label">I agree to the <a href="#">Terms and Conditions</a></label>
 										<div class="invalid-feedback">
 											You must agree with our Terms and Conditions
 										</div>
@@ -60,7 +62,7 @@
 										Register
 									</button>
 								</div>
-								<div class="mt-4 text-center">
+								<div class="mt-4 text-center form-label">
 									Already have an account? <a href="../forms/login.php">Login</a>
 								</div>
 							</form>

@@ -19,15 +19,17 @@
 					</div>
 					<div class="card fat">
 						<div class="card-body">
-							<h4 class="card-title">Forgot Password</h4>
+							<h4 class="card-title">Forgot Password? 🔒</h4>
+							<h6 class="text">Enter your email and we'll send you instructions to reset your password</h6>
 							<form method="POST" class="my-login-validation" novalidate="">
 								<div class="form-group">
-									<label for="email">E-Mail Address</label>
-									<input id="email" type="email" class="form-control" name="email" value="" required autofocus>
+									<label for="email" class="form-label">E-Mail Address</label>
+									<input id="email" type="email" class="form-control" name="email" value="" required placeholder="Enter your email"
+                    autofocus>
 									<div class="invalid-feedback">
 										Email is invalid
 									</div>
-									<div class="form-text text-muted">
+									<div class="form-text text-muted form-label">
 										By clicking "Reset Password" we will send a password reset link
 									</div>
 								</div>
@@ -37,6 +39,13 @@
 										Reset Password
 									</button>
 								</div>
+								<br>
+								<div class="text-center">
+								<a href="../forms/login.php" class="d-flex align-items-center justify-content-center">
+								<span><svg viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img" aria-label="chevron left" xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi-chevron-left mx-auto b-icon bi" data-v-41be6633=""><g data-v-41be6633=""><path fill-rule="evenodd" d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"></path></g></svg></span>
+								Back to login
+								</a>
+							</div>
 							</form>
 						</div>
 					</div>

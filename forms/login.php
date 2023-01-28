@@ -22,7 +22,7 @@
 					<div class="card fat">
 						<div class="card-body">
 							<h3 class="card-title">Login!</h3>
-              <h5 class="text">Please sign-in to your account and start the adventure</h5>
+              <h5 class="text">Please sign-in to your account and start the adventure👋</h5>
 							<form method="POST" class="my-login-validation" novalidate="">
 								<div class="form-group">
                 <label for="email" class="form-label">EMAIL OR USERNAME</label>

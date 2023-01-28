@@ -27,7 +27,6 @@
     <!-- Template Main CSS File -->
     <link href="../assets/css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="../assets/css/styleabout.css">
-    <link rel="stylesheet" href="../assets/css/stylevs.css">
 
     <!-- =======================================================
   * Template Name: Regna - v4.10.0
@@ -72,48 +71,83 @@
         </div>
     </header>
     <!-- End Header -->
-<br><br><br><br><br>
-     <!-- ======= Why Us Section ======= -->
-     <section class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-6">
-                    <img src="../assets/img/sch.jpg" class="img-fluid" alt="">
+<br><br>
+ <!-- ======= Services Section ======= -->
+ <section id="services">
+            <div class="container" data-aos="fade-up">
+                <div class="section-header">
+                    <h3 class="section-title">Tujuan SMK</h3>
+                    <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
                 </div>
-
-                <div class="col-lg-6 d-flex flex-column justify-content-center p-5">
-
-                    <div class="icon-box">
-                        <!-- <div class="icon"><i class="bx bx-fingerprint"></i></div> -->
-                        <h4 class="title"><a href="">Visi SMK NEGERI 1 PASURUAN</a></h4>
-                        <p class="description">Terwujudnya insan yang berakhlak mulia, kreatif, inovatif, mandiri, dan peduli lingkungan.</p>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a href=""><i class="bi bi-1-circle-fill"></i></a></div>
+                            <!-- <h4 class="title"><a href="">Bisnis Daring & Pemasaran</a></h4> -->
+                            <p class="description">Terwujudnya peserta didik yang memiliki Nilai Keimanan dan Ketaqwaan kepada Tuhan Yang Maha Esa</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a href=""><i class="bi bi-2-circle-fill"></i></i></a></div>
+                            <!-- <h4 class="title"><a href="">Otomatisasi Tata Kelola Perkantoran</a></h4> -->
+                            <p class="description">Terwujudnya peserta didik yang memiliki Jiwa Nasionalisme</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a href=""><i class="bi bi-3-circle-fill"></i></a></div>
+                            <!-- <h4 class="title"><a href="">Akuntansi Keuangan Lembaga</a></h4> -->
+                            <p class="description">Terwujudnya peserta didik yang memiliki Prestasi Ilmu Pengetahuan, Teknologi, Seni Budaya dan Olahraga di tingkat Nasional dan Internasional</p>
+                        </div>
                     </div>
 
-                    <div class="icon-box">
-                        <!-- <div class="icon"><i class="bx bx-gift"></i></div> -->
-                        <h4 class="title"><a href="">Misi SMK Negeri 1 Pasuruan</a></h4>
-                        <p class="description">1. Meningkatkan Nilai Keimanan dan Ketaqwaan kepada Tuhan Yang Maha Esa<br>
-                        2. Menumbuhkembangkan Jiwa Nasionalisme <br>
-
-                        3. Meningkatkan Prestasi dalam Ilmu Pengetahuan, Teknologi, Seni Budaya dan Olahraga <br>
-
-                        4. Menumbuhkembangkan Kreatifitas, Inovatif dan Produktifitas dalam Peningkatan Mutu Pendidikan <br>
-
-                        5. Menumbuhkembangkan Kemandirian <br>
-
-                        6. Menanamkan sikap pelestarian Lingkungan, Pencegahan Terjadinya  Pencemaran dan  Kerusakan Lingkungan. <br>  
-
-                        </p>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a href=""><i class="bi bi-4-circle-fill"></i></a></div>
+                            <!-- <h4 class="title"><a href="">Kimia Industri</a></h4> -->
+                            <p class="description">Terwujudnya peserta didik yang memiliki Kecakapan hidup yang mampu bersaing dalam tataran  global</p>
+                        </div>
                     </div>
-
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a href=""><i class="bi bi-5-circle-fill"></i></a></div>
+                            <!-- <h4 class="title"><a href="">Rekayasa Perangkat Lunak</a></h4> -->
+                            <p class="description">Terwujudnya  peserta didik yang memiliki kreatifitas, inovasi, produktifitas dan kinerja yang tinggi</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a href=""><i class="bi bi-6-circle-fill"></i></a></div>
+                            <!-- <h4 class="title"><a href="">Teknik Komputer & Jaringan</a></h4> -->
+                            <p class="description">Terwujudnya peserta didik yang memiliki Jiwa kemandirian , dan mampu adaptasi sesuai perkembangan zaman</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a href=""><i class="bi bi-7-circle-fill"></i></a></div>
+                            <!-- <h4 class="title"><a href="">Teknik Komputer & Jaringan</a></h4> -->
+                            <p class="description">Terwujudnya kegiatan pembelajaran yang kondusif, lingkungan yang bersih, asri dan nyaman.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a href=""><i class="bi bi-8-circle-fill"></i></a></div>
+                            <!-- <h4 class="title"><a href="">Teknik Komputer & Jaringan</a></h4> -->
+                            <p class="description">Terbentuknya sikap upaya untuk pelestarian lingkungan hidup di sekitarnya sesuai  dengan fungsinya</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+                        <div class="box">
+                            <div class="icon"><a href=""><i class="bi bi-9-circle-fill"></i></a></div>
+                            <!-- <h4 class="title"><a href="">Teknik Komputer & Jaringan</a></h4> -->
+                            <p class="description">Terbentuknya sikap mampu mengatasi terjadi pencemaran yang mengakibatkan kerusakan lingkungan</p>
+                        </div>
+                    </div>
                 </div>
+
             </div>
-
-        </div>
-    </section>
-    <!-- End Why Us Section -->
-    
+        </section>
     <!-- End Hero Section -->
 
     <!-- ======= Footer ======= -->

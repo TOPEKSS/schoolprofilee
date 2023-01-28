@@ -57,7 +57,7 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="tentang/visimisi.php">Visi-Misi</a></li>
-                            <li><a class="dropdown-item" href="tentang/identitas.php">Indentitas Sekolah</a></li>
+                            <li><a class="dropdown-item" href="tentang/tujuan.php">Tujuan Sekolah</a></li>
                             <li><a class="dropdown-item" href="tentang/sejarah.php">Sejarah SMK</a></li>
                         </ul>
                     </li>

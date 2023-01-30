@@ -42,7 +42,7 @@
         <div class="container d-flex justify-content-between align-items-center">
 
             <div id="logo">
-                <a href="index.html"><img class="rounded-circle" src="assets/img/logo.png" width='40' height='40' alt=""></a>
+                <a href="index.php"><img class="rounded-circle" src="assets/img/logo.png" width='40' height='40' alt=""></a>
                 <!-- Uncomment below if you prefer to use a text logo -->
                 <!--<h1><a href="index.html">Regna</a></h1>-->
             </div>
@@ -343,7 +343,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong>Regna</strong>. All Rights Reserved
+                &copy; Copyright <strong>Coding Skensa</strong>. All Rights Reserved
             </div>
             <div class="credits">
                 <!--

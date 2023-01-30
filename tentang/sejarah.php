@@ -60,7 +60,7 @@
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="../tentang/visimisi.php">Visi-Misi</a></li>
                             <li><a class="dropdown-item" href="../tentang/tujuan.php">Tujuan Sekolah</a></li>
-                            <li><a class="dropdown-item" href="../tentang/sejarah.php">Sejarah SMK</a></li>
+                            <li><a class="dropdown-item active" href="../tentang/sejarah.php">Sejarah SMK</a></li>
                         </ul>
                     </li>
                     </li>
@@ -125,7 +125,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong>Regna</strong>. All Rights Reserved
+            &copy; Copyright <strong>Coding Skensa</strong>. All Rights Reserved
             </div>
             <div class="credits">
                 <!--

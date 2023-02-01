@@ -84,21 +84,21 @@
                         <div class="box">
                             <div class="icon"><a href=""><i class="bi bi-1-circle-fill"></i></a></div>
                             <!-- <h4 class="title"><a href="">Bisnis Daring & Pemasaran</a></h4> -->
-                            <p class="description">Terwujudnya peserta didik yang memiliki Nilai Keimanan dan Ketaqwaan kepada Tuhan Yang Maha Esa</p>
+                            <h6 class="description">Terwujudnya peserta didik yang memiliki Nilai Keimanan dan Ketaqwaan kepada Tuhan Yang Maha Esa</h6>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                         <div class="box">
                             <div class="icon"><a href=""><i class="bi bi-2-circle-fill"></i></i></a></div>
                             <!-- <h4 class="title"><a href="">Otomatisasi Tata Kelola Perkantoran</a></h4> -->
-                            <p class="description">Terwujudnya peserta didik yang memiliki Jiwa Nasionalisme</p>
+                            <h6 class="description">Terwujudnya peserta didik yang memiliki Jiwa Nasionalisme</h6>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                         <div class="box">
                             <div class="icon"><a href=""><i class="bi bi-3-circle-fill"></i></a></div>
                             <!-- <h4 class="title"><a href="">Akuntansi Keuangan Lembaga</a></h4> -->
-                            <p class="description">Terwujudnya peserta didik yang memiliki Prestasi Ilmu Pengetahuan, Teknologi, Seni Budaya dan Olahraga di tingkat Nasional dan Internasional</p>
+                            <h6 class="description">Terwujudnya peserta didik yang memiliki Prestasi Ilmu Pengetahuan, Teknologi, Seni Budaya dan Olahraga di tingkat Nasional dan Internasional</h6>
                         </div>
                     </div>
 
@@ -106,42 +106,42 @@
                         <div class="box">
                             <div class="icon"><a href=""><i class="bi bi-4-circle-fill"></i></a></div>
                             <!-- <h4 class="title"><a href="">Kimia Industri</a></h4> -->
-                            <p class="description">Terwujudnya peserta didik yang memiliki Kecakapan hidup yang mampu bersaing dalam tataran  global</p>
+                            <h6 class="description">Terwujudnya peserta didik yang memiliki Kecakapan hidup yang mampu bersaing dalam tataran  global</h6>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                         <div class="box">
                             <div class="icon"><a href=""><i class="bi bi-5-circle-fill"></i></a></div>
                             <!-- <h4 class="title"><a href="">Rekayasa Perangkat Lunak</a></h4> -->
-                            <p class="description">Terwujudnya  peserta didik yang memiliki kreatifitas, inovasi, produktifitas dan kinerja yang tinggi</p>
+                            <h6 class="description">Terwujudnya  peserta didik yang memiliki kreatifitas, inovasi, produktifitas dan kinerja yang tinggi</h6>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                         <div class="box">
                             <div class="icon"><a href=""><i class="bi bi-6-circle-fill"></i></a></div>
                             <!-- <h4 class="title"><a href="">Teknik Komputer & Jaringan</a></h4> -->
-                            <p class="description">Terwujudnya peserta didik yang memiliki Jiwa kemandirian , dan mampu adaptasi sesuai perkembangan zaman</p>
+                            <h6 class="description">Terwujudnya peserta didik yang memiliki Jiwa kemandirian , dan mampu adaptasi sesuai perkembangan zaman</h6>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                         <div class="box">
                             <div class="icon"><a href=""><i class="bi bi-7-circle-fill"></i></a></div>
                             <!-- <h4 class="title"><a href="">Teknik Komputer & Jaringan</a></h4> -->
-                            <p class="description">Terwujudnya kegiatan pembelajaran yang kondusif, lingkungan yang bersih, asri dan nyaman.</p>
+                            <h6 class="description">Terwujudnya kegiatan pembelajaran yang kondusif, lingkungan yang bersih, asri dan nyaman.</h6>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                         <div class="box">
                             <div class="icon"><a href=""><i class="bi bi-8-circle-fill"></i></a></div>
                             <!-- <h4 class="title"><a href="">Teknik Komputer & Jaringan</a></h4> -->
-                            <p class="description">Terbentuknya sikap upaya untuk pelestarian lingkungan hidup di sekitarnya sesuai  dengan fungsinya</p>
+                            <h6 class="description">Terbentuknya sikap upaya untuk pelestarian lingkungan hidup di sekitarnya sesuai  dengan fungsinya</h6>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6" data-aos="zoom-in">
                         <div class="box">
                             <div class="icon"><a href=""><i class="bi bi-9-circle-fill"></i></a></div>
                             <!-- <h4 class="title"><a href="">Teknik Komputer & Jaringan</a></h4> -->
-                            <p class="description">Terbentuknya sikap mampu mengatasi terjadi pencemaran yang mengakibatkan kerusakan lingkungan</p>
+                            <h6 class="description">Terbentuknya sikap mampu mengatasi terjadi pencemaran yang mengakibatkan kerusakan lingkungan</h6>
                         </div>
                     </div>
                 </div>

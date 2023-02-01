@@ -632,11 +632,12 @@ section {
     flex-direction: column;
     text-align: center;
     border-radius: 50%;
-    border: 2px solid #2dc997;
+    border: 2px solid #111;
+    ;
 }
 
 #about .about-container .icon-box .icon i {
-    color: #2dc997;
+    color: #111;
     font-size: 24px;
     line-height: 0;
 }

@@ -72,46 +72,53 @@
         </div>
     </header>
     <!-- End Header -->
-<br><br><br><br><br>
+<br><br>
      <!-- ======= Why Us Section ======= -->
-     <section class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
-        <div class="container">
+     <section id="about">
+            <div class="container" data-aos="fade-up">
+                <div class="row about-container">
 
-            <div class="row">
-                <div class="col-lg-6">
-                    <img src="../assets/img/sch.jpg" class="img-fluid" alt="">
-                </div>
+                    <div class=" content order-lg-1 order-2">
+                        <h2 class="title text-center">VISI MISI SMK NEGERI 1 PASURUAN</h2><br>
+                        <h2>VISI :</h2>
+                        <h6>Terwujudnya insan yang berakhlak mulia, kreatif, inovatif, mandiri, dan peduli lingkungan.</h6>
+                        <h2>MISI :</h2>
+                        <div class="row">
+                        <div class="icon-box col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                            <div class="icon"><i class="bi bi-1-circle-fill"></i></div>
+                            <h6 class="description">Meningkatkan Nilai Keimanan dan Ketaqwaan kepada Tuhan Yang Maha Esa</h6>
+                        </div>
 
-                <div class="col-lg-6 d-flex flex-column justify-content-center p-5">
+                        <div class="icon-box  col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                            <div class="icon"><i class="bi bi-2-circle-fill"></i></div>
+                            <h6 class="description">Menanamkan sikap pelestarian Lingkungan, Pencegahan Terjadinya  Pencemaran dan  Kerusakan Lingkungan.</h6>
+                        </div>
 
-                    <div class="icon-box">
-                        <!-- <div class="icon"><i class="bx bx-fingerprint"></i></div> -->
-                        <h4 class="title"><a href="">Visi SMK NEGERI 1 PASURUAN</a></h4>
-                        <p class="description">Terwujudnya insan yang berakhlak mulia, kreatif, inovatif, mandiri, dan peduli lingkungan.</p>
+                        <div class="icon-box  col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                            <div class="icon"><i class="bi bi-3-circle-fill"></i></div>
+                            <h6 class="description"> Meningkatkan Prestasi dalam Ilmu Pengetahuan, Teknologi, Seni Budaya dan Olahraga</h6>
+                        </div>
+                        <div class="icon-box  col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                            <div class="icon"><i class="bi bi-4-circle-fill"></i></div>
+                            <h6 class="description">Menumbuhkembangkan Kreatifitas, Inovatif dan Produktifitas dalam Peningkatan Mutu Pendidikan</h6>
+                        </div>
+                        <div class="icon-box  col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                            <div class="icon"><i class="bi bi-5-circle-fill"></i></div>
+                            <h6 class="description">Menumbuhkembangkan Kemandirian</h6>
+                        </div>
+                        <div class="icon-box  col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                            <div class="icon"><i class="bi bi-6-circle-fill"></i></div>
+                            <h6 class="description">Menumbuhkembangkan Jiwa Nasionalisme</h6>
+                        </div>
+
+                        </div>
                     </div>
 
-                    <div class="icon-box">
-                        <!-- <div class="icon"><i class="bx bx-gift"></i></div> -->
-                        <h4 class="title"><a href="">Misi SMK Negeri 1 Pasuruan</a></h4>
-                        <p class="description">1. Meningkatkan Nilai Keimanan dan Ketaqwaan kepada Tuhan Yang Maha Esa<br>
-                        2. Menumbuhkembangkan Jiwa Nasionalisme <br>
-
-                        3. Meningkatkan Prestasi dalam Ilmu Pengetahuan, Teknologi, Seni Budaya dan Olahraga <br>
-
-                        4. Menumbuhkembangkan Kreatifitas, Inovatif dan Produktifitas dalam Peningkatan Mutu Pendidikan <br>
-
-                        5. Menumbuhkembangkan Kemandirian <br>
-
-                        6. Menanamkan sikap pelestarian Lingkungan, Pencegahan Terjadinya  Pencemaran dan  Kerusakan Lingkungan. <br>  
-
-                        </p>
-                    </div>
-
+                    
                 </div>
+
             </div>
-
-        </div>
-    </section>
+        </section>
     <!-- End Why Us Section -->
     
     <!-- End Hero Section -->

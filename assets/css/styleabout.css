@@ -19,3 +19,7 @@
     font-weight: 700;
     font-size: 32px;
 }
+
+.container p {
+    text-align: justify;
+}

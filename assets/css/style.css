@@ -608,7 +608,7 @@ section {
 
 #about .about-container p {
     line-height: 26px;
-    font-family: justify;
+    text-align: justify;
 }
 
 #about .about-container p:last-child {
@@ -633,7 +633,6 @@ section {
     text-align: center;
     border-radius: 50%;
     border: 2px solid #111;
-    ;
 }
 
 #about .about-container .icon-box .icon i {
